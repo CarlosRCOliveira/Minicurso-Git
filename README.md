@@ -15,4 +15,4 @@ Contatos:
 
 Oferecimento:
 -------------------
-[![GET Computação](https://copy.com/LPQe6ra8zg0m)](www.ufjf.br/getcomp)
+[![GET Computação](https://copy.com/LPQe6ra8zg0m)](http://www.ufjf.br/getcomp)
